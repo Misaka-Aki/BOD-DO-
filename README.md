@@ -9,10 +9,24 @@
 
  _声明：代码并非本人原创，因原代码在DEC C++中直接运行会报错，且有一点点错误，于是做出了修改。_ 
 
+github点击绿色按键“code”下载代码ZIP
+
+gitee点击“克隆/下载”下载代码ZIP
+
 
 ### 修改说明：
-
 
 1.将各自定义函数独立分配到自定义头文件中，形如“XXX.h”。如有需要请根据名称查找。
 
 2. **点击BOD.dev运行** ，而不是其他。但主函数仍然在main.cpp中
+
+
+### 使用小技巧：
+
+将数据输入"数据.txt"中，复制后在编译运行的程序中粘贴，即可迅速全部输入数据
+
+如何粘贴：右键点击程序标题框呼出菜单。
+
+![image](https://user-images.githubusercontent.com/66006338/141788395-258cd9eb-2d47-4b9c-ac7c-17aeddef6f5c.png)
+
+![屏幕截图(157)](https://user-images.githubusercontent.com/66006338/141788196-f5f3227c-f3d4-47b8-9d06-82790768ddce.png)
